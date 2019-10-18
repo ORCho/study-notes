@@ -1,4 +1,4 @@
-#【柠檬问答】Javascript中的Array和Object区别
+# 【柠檬问答】Javascript中的Array和Object区别
 
 学习coding真的很怀疑人生。 也许前几天还会的方法， 过几天就忘记了。 当初自学数据分析的时候，一直在倒腾数组和对象， 但是学到javascript的时候又一次蒙圈了。 Array和Object如此似成相识，又是如此陌生。 
 
@@ -34,6 +34,7 @@ Object用{},有更多的string, 包含key values和property values.
 Good Luck~~
 
 by LemonHoney
+
 <img src="https://www.chanel.com/images//t_fashion//q_auto,f_jpg,fl_lossy,dpr_2/w_1240/classic-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8818020581406.jpg" width=100, height=100>
 
 
