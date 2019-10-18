@@ -43,7 +43,7 @@ git commit -m "comments"
 <img src="img/3.png">
 
 一路创建之后， 就得到这个界面。 
-<img src="img/4.png">
+<img src="https://github.com/ORCho/try/blob/master/img/4.png">
 这里我们使用第二种办法。 同样在本地MAC的terminal里面输入语句。 记得没输入一行按enter， 看到自己用户名出现再继续。 
 
 到这里就可以把文件上传到github了。 
