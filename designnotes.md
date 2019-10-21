@@ -240,7 +240,7 @@ use gaussian blur. add contrast between blur image and sharp text. or use blur p
 <img src="http://platowebdesign.com/articles/wp-content/uploads/2014/11/TranslatingClientSpeak.jpg">
 
 
-
+created by LemonHoney with Love and Hope.
 
 
 
