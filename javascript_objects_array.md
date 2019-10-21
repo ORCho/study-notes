@@ -10,7 +10,7 @@ web development学到backend数据库，又是眼花缭乱的数组和对象，�
 
 记住1:
 
-Array： 永远都是用[]。 好比菜篮子什么都能混着装。
+Array： 永远都是用[]。 好比菜篮子什么都能混着装。Array是有序的， 通过arr[0],来调用数组内的内容， 此处是第一个元素。 
 ```
 var arr[1,"string", object, another arr]
 ```
@@ -18,7 +18,7 @@ var arr[1,"string", object, another arr]
 Object：永远都是用{}，里面有两个要素：key values,和property values。
 
 
-Object好比一个包包， 有不同的品牌，不同的size，不同的颜色。
+Object好比一个包包， 有不同的品牌，不同的size，不同的颜色。Object是通过Key value来调用的。 
 ```
 var bag:{
     "brand":"chanel",
