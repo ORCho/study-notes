@@ -235,7 +235,7 @@ use gaussian blur. add contrast between blur image and sharp text. or use blur p
 
 <img src="img/48.png" alt=48>
 
-<img src="img/49.png" alt=49>
+<img src="img/49.jpeg" alt=49>
 
 <img src="http://platowebdesign.com/articles/wp-content/uploads/2014/11/TranslatingClientSpeak.jpg">
 
